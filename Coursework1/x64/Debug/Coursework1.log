@@ -1,0 +1,12 @@
+﻿  Coursework1.cpp
+  Data.cpp
+E:\Work\Freelancer\Homework\IPC\ICS0025\Coursework1\Data.cpp(37,45): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Date.cpp
+  Item.cpp
+E:\Work\Freelancer\Homework\IPC\ICS0025\Coursework1\Item.cpp(62,73): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Freelancer\Homework\IPC\ICS0025\Coursework1\Item.cpp(84,73): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating Code...
+E:\Work\Freelancer\Homework\IPC\ICS0025\Coursework1\Item.cpp(58): warning C4715: 'Item::GetName': not all control paths return a value
+E:\Work\Freelancer\Homework\IPC\ICS0025\Coursework1\Data.cpp(341): warning C4715: 'Data::InsertGroup': not all control paths return a value
+  Coursework1.vcxproj -> E:\Work\Freelancer\Homework\IPC\ICS0025\Coursework1\x64\Debug\Coursework1.exe
