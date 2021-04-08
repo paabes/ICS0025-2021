@@ -1,0 +1,15 @@
+﻿  Coursework2.cpp
+  Data.cpp
+E:\Work\Freelancer\Homework\IPC\ICS0025\Coursework2\Data.cpp(37,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Date.cpp
+  ICS0025PipeClient.cpp
+E:\Work\Freelancer\Homework\IPC\ICS0025\Coursework2\ICS0025PipeClient.cpp(172,2): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Item.cpp
+E:\Work\Freelancer\Homework\IPC\ICS0025\Coursework2\Item.cpp(64,73): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Work\Freelancer\Homework\IPC\ICS0025\Coursework2\Item.cpp(86,73): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1156 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Coursework2.vcxproj -> E:\Work\Freelancer\Homework\IPC\ICS0025\Coursework2\x64\Release\Coursework2.exe
